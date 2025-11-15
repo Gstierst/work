@@ -1,0 +1,10 @@
+C:\Users\gavin\source\repos\RPGTurnBasedProject\RPGTurnBasedProject\bin\Debug\RPGTurnBasedProject.exe.config
+C:\Users\gavin\source\repos\RPGTurnBasedProject\RPGTurnBasedProject\bin\Debug\RPGTurnBasedProject.exe
+C:\Users\gavin\source\repos\RPGTurnBasedProject\RPGTurnBasedProject\bin\Debug\RPGTurnBasedProject.pdb
+C:\Users\gavin\source\repos\RPGTurnBasedProject\RPGTurnBasedProject\obj\Debug\RPGTurnBasedProject.csproj.AssemblyReference.cache
+C:\Users\gavin\source\repos\RPGTurnBasedProject\RPGTurnBasedProject\obj\Debug\RPGTurnBasedProject.Form1.resources
+C:\Users\gavin\source\repos\RPGTurnBasedProject\RPGTurnBasedProject\obj\Debug\RPGTurnBasedProject.Properties.Resources.resources
+C:\Users\gavin\source\repos\RPGTurnBasedProject\RPGTurnBasedProject\obj\Debug\RPGTurnBasedProject.csproj.GenerateResource.cache
+C:\Users\gavin\source\repos\RPGTurnBasedProject\RPGTurnBasedProject\obj\Debug\RPGTurnBasedProject.csproj.CoreCompileInputs.cache
+C:\Users\gavin\source\repos\RPGTurnBasedProject\RPGTurnBasedProject\obj\Debug\RPGTurnBasedProject.exe
+C:\Users\gavin\source\repos\RPGTurnBasedProject\RPGTurnBasedProject\obj\Debug\RPGTurnBasedProject.pdb
