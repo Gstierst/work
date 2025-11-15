@@ -1,0 +1,10 @@
+C:\Users\gavin\source\repos\Assignment2Wordle\Assignment2Wordle\bin\Debug\Assignment2Wordle.exe.config
+C:\Users\gavin\source\repos\Assignment2Wordle\Assignment2Wordle\bin\Debug\Assignment2Wordle.exe
+C:\Users\gavin\source\repos\Assignment2Wordle\Assignment2Wordle\bin\Debug\Assignment2Wordle.pdb
+C:\Users\gavin\source\repos\Assignment2Wordle\Assignment2Wordle\obj\Debug\Assignment2Wordle.csproj.AssemblyReference.cache
+C:\Users\gavin\source\repos\Assignment2Wordle\Assignment2Wordle\obj\Debug\Assignment2Wordle.Form1.resources
+C:\Users\gavin\source\repos\Assignment2Wordle\Assignment2Wordle\obj\Debug\Assignment2Wordle.Properties.Resources.resources
+C:\Users\gavin\source\repos\Assignment2Wordle\Assignment2Wordle\obj\Debug\Assignment2Wordle.csproj.GenerateResource.cache
+C:\Users\gavin\source\repos\Assignment2Wordle\Assignment2Wordle\obj\Debug\Assignment2Wordle.csproj.CoreCompileInputs.cache
+C:\Users\gavin\source\repos\Assignment2Wordle\Assignment2Wordle\obj\Debug\Assignment2Wordle.exe
+C:\Users\gavin\source\repos\Assignment2Wordle\Assignment2Wordle\obj\Debug\Assignment2Wordle.pdb

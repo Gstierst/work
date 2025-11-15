@@ -1,0 +1,10 @@
+C:\Users\gavin\source\repos\Assignment2Wordle\StierstorferGA2\bin\Debug\Assignment2Wordle.exe.config
+C:\Users\gavin\source\repos\Assignment2Wordle\StierstorferGA2\bin\Debug\Assignment2Wordle.exe
+C:\Users\gavin\source\repos\Assignment2Wordle\StierstorferGA2\bin\Debug\Assignment2Wordle.pdb
+C:\Users\gavin\source\repos\Assignment2Wordle\StierstorferGA2\obj\Debug\StierstorferGA2.csproj.AssemblyReference.cache
+C:\Users\gavin\source\repos\Assignment2Wordle\StierstorferGA2\obj\Debug\StierstorferGA2.Form1.resources
+C:\Users\gavin\source\repos\Assignment2Wordle\StierstorferGA2\obj\Debug\Assignment2Wordle.Properties.Resources.resources
+C:\Users\gavin\source\repos\Assignment2Wordle\StierstorferGA2\obj\Debug\StierstorferGA2.csproj.GenerateResource.cache
+C:\Users\gavin\source\repos\Assignment2Wordle\StierstorferGA2\obj\Debug\StierstorferGA2.csproj.CoreCompileInputs.cache
+C:\Users\gavin\source\repos\Assignment2Wordle\StierstorferGA2\obj\Debug\Assignment2Wordle.exe
+C:\Users\gavin\source\repos\Assignment2Wordle\StierstorferGA2\obj\Debug\Assignment2Wordle.pdb
